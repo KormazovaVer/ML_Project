@@ -2,7 +2,7 @@
 Run my Project
 
 ```bash
-  git clone https://github.com/KormazovaVer/project_ml/Image-Recognition-App-using-FastAPI-and-PyTorch
+  git clone https://github.com/KormazovaVer/ML_Project/Image-Recognition-App-using-FastAPI-and-PyTorch
   cd Image-Recognition-App-using-FastAPI-and-PyTorch
   python -m venv venv
   source venv/bin/activate
